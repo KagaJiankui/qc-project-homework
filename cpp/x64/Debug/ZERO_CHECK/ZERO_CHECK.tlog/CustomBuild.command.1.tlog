@@ -1,0 +1,10 @@
+^D:\QINGCHENG\QC-PROJECT-HOMEWORK\CPP\CMAKEFILES\9C35E7CAE204F0590953D4EDE447AC7E\GENERATE.STAMP.RULE
+setlocal
+"D:\Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/qingcheng/qc-project-homework/cpp -BD:/qingcheng/qc-project-homework/cpp --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/qingcheng/qc-project-homework/cpp/DLLTest1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

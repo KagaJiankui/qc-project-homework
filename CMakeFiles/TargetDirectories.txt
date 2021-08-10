@@ -1,0 +1,3 @@
+D:/qingcheng/qc-project-homework/CMakeFiles/DLLTest1.dir
+D:/qingcheng/qc-project-homework/CMakeFiles/ALL_BUILD.dir
+D:/qingcheng/qc-project-homework/CMakeFiles/ZERO_CHECK.dir
